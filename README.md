@@ -1,64 +1,90 @@
-# Hello, I'm [Your Name] 👋
+# Hi there, I'm [Your Name] 👋
 
-## 🚀 About Me
+[![Website Badge](https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
 
-I'm a passionate developer who loves building impactful applications. Currently, I'm exploring [mention any current technologies or projects].
+## About Me 🚀
+I'm a [Your Role] passionate about [Your Interests]. With [X years] of experience in [Your Field], I specialize in [Your Specialization]. I'm currently [Working on/Learning] [Current Focus].
 
-## 🛠️ Technologies & Tools
+<!-- Optional: Add a brief personal touch or quote -->
+> "Your favorite quote or personal motto here"
 
-# Hello, I'm [Your Name] 👋
+## 🔭 Current Projects
+- [Project 1](link-to-repo) - Brief description
+- [Project 2](link-to-repo) - Brief description
+- [Project 3](link-to-repo) - Brief description
 
-## 🚀 About Me
+## 🛠️ Skills & Technologies
 
-I'm a passionate developer who loves building impactful applications. Currently, I'm exploring [mention any current technologies or projects].
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <!-- Add more languages you know -->
+</p>
 
-## 🛠️ Technologies & Tools
+### Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <!-- Add more frameworks & libraries you use -->
+</p>
 
-### 🛠️ Technologies & Tools
-
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="VSCode" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="CSharp" alt="CSharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="npm" alt="npm" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Vercel" alt="Vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Expo" alt="Expo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
-</div>
-
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true)
-
-## 🐍 My Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-## 📫 How to Reach Me
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-
+### Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <!-- Add more tools & platforms you use -->
+</p>
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true)
+<!-- Option 1: Basic Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-## 🐍 My Contribution Snake
+<!-- Option 2: Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<!-- Option 3: Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
-## 📫 How to Reach Me
+## 🌱 I'm currently learning
+- [Technology/Skill 1]
+- [Technology/Skill 2]
+- [Technology/Skill 3]
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+## 👯 I'm looking to collaborate on
+- Open source projects related to [Topic]
+- Interesting projects involving [Technology/Domain]
+
+## 🏆 Certifications & Achievements
+- [Certification 1]
+- [Achievement 1]
+- [Award/Recognition]
+
+## 📚 Featured Blog Posts
+<!-- If you write blog posts, link your best ones here -->
+- [Blog Post 1 Title](link) - Brief description
+- [Blog Post 2 Title](link) - Brief description
+
+## 📫 How to reach me
+- Email: your.email@example.com
+- Discord: yourusername#1234
+- Telegram: @yourusername
+
+## ⚡ Fun fact
+<!-- Share something interesting about yourself -->
+[Your fun fact here]
+
+<!-- Optional: Profile visitor counter -->
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+<!-- Optional: Support section -->
+## 💖 Support
+If you find my work valuable, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/yourusername)](https://www.buymeacoffee.com/yourusername)
